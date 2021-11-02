@@ -1,0 +1,5 @@
+https://elbauldelprogramador.com/plsql-cursores/
+
+https://www.mundoracle.com/cursores.html?Pg=sql_plsql_13.htm
+
+https://sites.google.com/a/espe.edu.ec/bases-de-datos-ii/conclusion/cursores/ejemplos-de-cursores
